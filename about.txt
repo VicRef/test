@@ -1,1 +1,3 @@
 bu dosyaya da birşeyler yazalım.
+
+deneme.
